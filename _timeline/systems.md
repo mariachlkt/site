@@ -17,6 +17,8 @@ events:
   - plato4
   - videoplace
   - xerox-star-pc
+  - irix-os
+  - vision
   - apple-macintosh-1984
   - eye-phone
   - mediaspace
