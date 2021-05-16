@@ -13,6 +13,8 @@ slides:
   - xerox-star-desktop
   - xerox-star-genealogy
   - macintosh-desktop
+  - irix-os
+  - vision
   - gem2
   - windows95
   - wysiwyg
